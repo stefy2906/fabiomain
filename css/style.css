@@ -1,7 +1,9 @@
 body{
-    background-color: bisque;
+    background-color: azure;
+    text-align: center;
 }
 button{
     color: black;
+    border-radius: 6px;
     background-color: white;
 }
